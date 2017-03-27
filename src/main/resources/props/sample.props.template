@@ -142,9 +142,9 @@ BankMockKey=change_me
 
 
 
-### web interface configuration
-webui_header_logo_left_url = /media/images/logo.png
-webui_header_logo_right_url =
+## Web interface configuration
+webui_header_logo_left_url = /media/images/logoBancSabadell.png
+webui_header_logo_right_url = /media/images/logo.png
 webui_index_page_about_section_background_image_url = /media/images/about-background.jpg
 webui_index_page_about_section_text = <p class="about-text"> \
                                         Welcome to the API Sandbox powered by the Open Bank Project! <br/> \
